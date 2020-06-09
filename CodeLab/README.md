@@ -1,3 +1,15 @@
+# Table of Contents
+- [Symptoms of Coronavirus](#symptoms-of-coronavirus)
+  - [What you need to know](#what-you-need-to-know)
+  - [Watch for symptoms](#wacth-for-symptoms)
+  - [When to Seek Emergency Medical Attention](#when-to-seek-emergency-medical-attention)
+  - [Caring for youself or others](#caring-for-yourseld-or-others)
+  - [More Information on Symptoms](#more-information-on-symptoms)
+- [Testing](#testing)
+  - [Testing for COVID-19](#testing-for-COVID-19)
+  - [Who should be tested](#who-should-be-test)
+  - [Results](#results)
+  - [More information on Testing](#more-information-on-testing)
 # Coronavirus Disease 2019
 ## Symptoms of Coronavirus
 ### What you need to know
@@ -31,7 +43,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 * [How to protect yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
 * [What to do is you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
-### More Information
+### More Information on symptoms
 * [Older adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
 * [People at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
 * [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
