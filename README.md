@@ -1,19 +1,19 @@
 # Table of Contents
 - [Symptoms of Coronavirus](#symptoms-of-coronavirus)
   - [What you need to know](#what-you-need-to-know)
-  - [Watch for symptoms](#wacth-for-symptoms)
+  - [Watch for symptoms](#watch-for-symptoms)
   - [When to Seek Emergency Medical Attention](#when-to-seek-emergency-medical-attention)
-  - [Caring for youself or others](#caring-for-yourseld-or-others)
+  - [Caring for youself or others](#caring-for-yourself-or-others)
   - [More Information on Symptoms](#more-information-on-symptoms)
 - [Testing](#testing)
   - [Testing for COVID-19](#testing-for-COVID-19)
-    - [Who should be tested](#who-should-be-test)
+    - [Who should be tested](#who-should-be-tested)
     - [Results](#results)
     - [More information on Testing](#more-information-on-testing)
   - [Test for Curent Infection](#test-for-current-infection)
     - [How to deicide if you should get a viral test](#how-to-decide-if-you-hould-get-a-viral-test)
     - [How to get a viral test](#how-to-get-a-viral-test)
-    - [What to do after a viral test](#what-to-d-after-a-viral-test)
+    - [What to do after a viral test](#what-to-do-after-a-viral-test)
     - [More information on viral testing](#more-information-on-viral-testing)
   - [Test for Past infection](#test-for-past-infection)
     - [How to get an antibody test](#how-to-get-an-antibody-test)
@@ -27,16 +27,16 @@
   - [Spread between animals and people](#spread-between-animals-and-people)
 - [Protect yourself](#protect-yourself)
   - [Know how it spreads](#know-how-it-spreads)
-  - [Everyone should](#everypne-should)
+  - [Everyone should](#everyone-should)
     - [Wash your hands](#wash-your-hands-often)
     - [Avoid close contact](#avoid-close-contact)
-  - [Cover your mouth and nose with a cloth face cover when around others](#cover-your-mouth-and-nose-with-a-face-cloth-cover-when-around-others)
+  - [Cover your mouth and nose with a cloth face cover when around others](#Cover-your-mouth-and-nose-with-a-cloth-face-cover-when-around-others)
   - [Cover coughs and sneezes](#cover-coughs-and-sneezes)
   - [Clean and disinfect](#clean-and-disinfect)
   - [Monitor your health](#monitor-your-health)
 - [Social distancing](#Social-distancing)
   - [What is social distancing?](#what-is-social-distancing?)
-  - [Why practice social distancing?](why-practice-scoial-distancing?)
+  - [Why practice social distancing?](#why-practice-social-distancing)
   - [Tips for social distancing](#tips-fo-social-distancing)
 # Coronavirus Disease 2019
 ## Symptoms of Coronavirus
@@ -67,7 +67,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 *This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
 
 **Call 911 or call ahead to your local emergency facility:** Notify the operator that you are seeking care for someone who has or may have COVID-19
-### Caring for yourseld or others
+### Caring for yourself or others
 * [How to protect yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
 * [What to do is you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
@@ -111,7 +111,7 @@ If you test positive or negative for COVID-19, no matter the type of test you st
 
 >For information on CDC ciral and antibody testing, see information on [CDC lab tests.](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html)
 
-### More Information
+### More Information on testing
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 
 # Test for Current Infection
@@ -128,14 +128,14 @@ CDC has [guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criter
 COVID-19 testing differs by location. If you have symptoms of COVID-19 and want to get tested, call your healthcare provider first. You can also visit your [state](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) or [local](https://www.naccho.org/membership/lhd-directory) health departent's website to look for the latest local information on testing. Although **supplies of tests are increasing, it may still be difficult to find a place to get tested.**
 
 The U.S. Food and Drug Administration (FDA) has authorized two viral tests that let you collect either a [nasal swab](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-test-patient-home-sample-collection) or a [saliva sample](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-diagnostic-test-using-home-collection-saliva) at home. However, you will still need to send your sample to a laboratory for analysis.
-## What to do after a vial test
+## What to do after a viral test
 [Guidance on interpreting COVID-19 Test Results:](https://www.whitehouse.gov/wp-content/uploads/2020/05/Testing-Guidance.pdf) A guide for interpreting test results and determining what actions to take.
 
 To get your test result, please check with the group that performed your test, such as yuor healthcare provider or your health department. Checl the CDC website to [locate your health department information.](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) How long it will take to get your test results back depends on the test used.
 - **If you test positive for COVID-19**, know what protective steps to take [If You Are Sick or Caring for Someone.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html)
 - **If you test negative for COVID-19,** you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very early in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean you won't get sick later. This means you could still spread the virus.
 
-### More Information
+### More Information on viral testing
 [HHS Communtiy based Viral testing sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 
 [CDC: Frequently asked questions on symptoms and testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
@@ -275,7 +275,7 @@ Many people have personal circumstances or situations that present challenges wi
 * [People with Disabilities](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-disabilities.html)
 * [People Experiencing Homelessness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/homelessness.html)
 
-## Why practice social distancing?
+## Why practice social distancing
 COVID-19 spreads mainly among people who are in close contact (within about 6 feet) for a prolonged period. Spread happens when an infected person coughs, sneezes, or talks, and droplets from their mouth or nose are launched into the air and land in the mouths or noses of people nearby. The droplets can also be inhaled into the lungs. Recent studies indicate that people who are infected but do not have symptoms likely also play a role in the spread of COVID-19.
 
 It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or eyes. However, this is not thought to be the main way the virus spreads. COVID-19 can live for hours or days on a surface, depending on factors such as sunlight, humidity, and the type of surface. Social distancing helps limit opportunities to come in contact with contaminated surfaces and infected people outside the home.
